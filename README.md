@@ -215,8 +215,8 @@ Windows 10/11 (x64) · alternativ: [dotnet.microsoft.com/download/dotnet/10.0](h
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/G3t3xpired/ZeroZen-Chatting?style=for-the-badge&labelColor=1a1a2e&color=9D4EDD)](https://github.com/G3t3xpired/ZeroZen-Chatting/stargazers)
-[![Downloads](https://img.shields.io/github/downloads/G3t3xpired/ZeroZen-Chatting/total?style=for-the-badge&labelColor=1a1a2e&color=7c3aed)](https://github.com/G3t3xpired/ZeroZen-Chatting/releases)
+[![Stars](https://img.shields.io/github/stars/ZeroZenHub/ZeroZen-Chatting?style=for-the-badge&labelColor=1a1a2e&color=9D4EDD)](https://github.com/ZeroZenHub/ZeroZen-Chatting/stargazers)
+[![Downloads](https://img.shields.io/github/downloads/ZeroZenHub/ZeroZen-Chatting/total?style=for-the-badge&labelColor=1a1a2e&color=7c3aed)](https://github.com/ZeroZenHub/ZeroZen-Chatting/releases)
 [![License](https://img.shields.io/badge/LICENSE-Custom-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=6d28d9)](LICENSE)
 
 </div>
